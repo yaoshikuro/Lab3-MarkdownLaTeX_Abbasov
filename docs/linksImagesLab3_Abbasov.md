@@ -1,0 +1,6 @@
+[GitHub](https://github.com/yaoshikuro/Lab3-MarkdownLaTeX_Abbasov)
+[Markdown](https://www.markdownguide.org "перейти на официвльный сайт")
+![Скриншот задания](/img/commitStructureLab3_Abbasov.png)
+[trentwins](https://www.youtube.com/watch?v=jEHI6gPWqgM)
+[youtube](https://www.youtube.com/)
+[мой](https://github.com/yaoshikuro)
